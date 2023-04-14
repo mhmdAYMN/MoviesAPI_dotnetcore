@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesAPI_dotnetcore", "MoviesAPI_dotnetcore\MoviesAPI_dotnetcore.csproj", "{0F77533B-4B63-48A9-AE98-4ECF68C57C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F77533B-4B63-48A9-AE98-4ECF68C57C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F77533B-4B63-48A9-AE98-4ECF68C57C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F77533B-4B63-48A9-AE98-4ECF68C57C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F77533B-4B63-48A9-AE98-4ECF68C57C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE991A30-D7FB-4DF5-9902-53D98668859C}
+	EndGlobalSection
+EndGlobal
